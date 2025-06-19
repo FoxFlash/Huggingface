@@ -1,5 +1,4 @@
 # Huggingface
-treinando
 // Programatically interact with the Hub
 
 await createRepo({
